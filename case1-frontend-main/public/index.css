@@ -1,0 +1,11 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-image: url("./img/a-biblioteca-virtual-em-um-laptop-e-personagem-de-crianca-lendo-um-livro-em-estilo-simples-ilustracao-sobre-educacao-on-line_77984-1004.avif");
+}
+h1{
+  text-align: center;
+  align-items: center;
+}
